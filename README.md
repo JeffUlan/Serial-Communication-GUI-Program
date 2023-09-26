@@ -1,5 +1,5 @@
 # COM Port Tool Documentation
-Author: Mehmet Cagri Aksoy 2023
+Author: JeffUlan 2023
 ## Introduction
 The AFCOM port tool is a software application that allows users to send and receive data via the serial port (COM port) of their computer. 
 
@@ -19,7 +19,7 @@ To use the tool, follow these steps:
 
 python main.py
 
-![Project](https://github.com/mcagriaksoy/Serial-Communication-GUI-Program/blob/master/img/screenshot.jpg)
+![Project](https://github.com/jeffulan/Serial-Communication-GUI-Program/blob/master/img/screenshot.jpg)
 
 If you encounter any problems while using the COM port tool, try these solutions:
 
